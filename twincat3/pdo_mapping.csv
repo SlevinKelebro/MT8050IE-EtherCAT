@@ -1,0 +1,5 @@
+Index, Subindex, Name, Direction, Data Type
+0x1600, 0x01, ControlWord, Output, UINT16
+0x1600, 0x02, TargetPosition, Output, INT32
+0x1A00, 0x01, StatusWord, Input, UINT16
+0x1A00, 0x02, ActualPosition, Input, INT32
